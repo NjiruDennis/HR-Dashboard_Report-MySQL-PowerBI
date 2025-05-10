@@ -81,11 +81,11 @@ From the analysis, the following key insights were discovered:
 
 * **Gender Distribution:** The majority of employees are male (8.9K), closely followed by female employees (8.1K), with a small group of non-conforming employees (0.5K).
 * **Location Distribution:** About 75% of the workforce is based at the headquarters (13K), while 25% (4K) work remotely.
-* **Race Distribution:** The majority of employees belong to three main racial groups, with the largest group being 5.0K, followed by two groups with 2.8K each.
+* **Race Distribution:** The largest racial group is White (5.0K), followed by Two or More Races (2.9K), Black or African American (2.8K), and Asian (2.8K). Smaller groups include Hispanic or Latino (2.0K), American Indian or Alaska Native (1.1K), and Native Hawaiian or Other Pacific Islander (1.0K).
 * **Age Group Distribution:** The largest age groups are 35-44 (5.1K), 25-34 (4.9K), and 45-54 (4.9K), indicating a mature workforce, with fewer younger (18-24, 1.2K) and older (55-64, 1.5K) employees.
 * **Gender Distribution by Department:** Engineering and Accounting departments have the highest number of male employees, while Human Resources and Training departments have a more balanced gender distribution.
 * **Termination Rates:** Auditing (0.18), Legal (0.15), and Training (0.13) departments have the highest termination rates, potentially indicating high employee turnover or role-specific challenges.
-* **Employee Growth:** The company's workforce has seen steady growth over the past two decades, despite some dips around 2005 and 2010.
+* **Employee Growth:** The company's workforce has seen steady growth over the past two decades, despite some dips around 2004 and 2009.
 * **Employee Distribution by State:** Most employees are concentrated in states like Michigan, Ohio, and Indiana.
 
 ### Power BI Visuals
@@ -93,14 +93,13 @@ From the analysis, the following key insights were discovered:
 To provide a more comprehensive understanding of the data, here are the Power BI visualizations used in this analysis:
 
 #### Employee Overview Page
-<img width="786" alt="image" src="https://github.com/user-attachments/assets/f4b30056-45cb-4cf5-8282-8ab6b9d4e697" />
+Provides an overview of the workforce distribution, including gender, location, and racial composition.
+<img width="758" alt="image" src="https://github.com/user-attachments/assets/09da992d-0adc-4c1f-9093-a2c2e8285421" />
 
-* Provides an overview of the workforce distribution, including gender, location, and racial composition.
 
 #### Department and Age Breakdown Page
+Focuses on department-level analysis, including gender distribution by department, age group breakdown, and termination rates.
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/a18a410e-af65-41c6-9c12-94fe9c5a6178" />
-
-* Focuses on department-level analysis, including gender distribution by department, age group breakdown, and termination rates.
 
 
 ## Recommendations
